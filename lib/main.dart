@@ -82,7 +82,7 @@ class MyApp extends StatelessWidget {
               // Terceiro botão: Com ícone
               ElevatedButton(
                 onPressed: () {
-                  // Ação para o terceiro botão
+                  // Ação para o terceiro botã
                 },
                 style: ElevatedButton.styleFrom(
                   padding: const EdgeInsets.symmetric(
@@ -102,5 +102,5 @@ class MyApp extends StatelessWidget {
         ),
       ),
     );
-  }
+  } 
 }
